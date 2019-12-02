@@ -1,3 +1,10 @@
+# Don't fork this repo - fork the [JoshClose/CSVHelper](https://github.com/JoshClose/CsvHelper) repo instead
+
+Hi folks, I noticed someone forked this branch. Don't do that. Because this is a stale branch that I would have forked to do some investigative work. You would be better off forking the upstream project by Josh Close. Goodluck.
+
+
+
+
 # CsvHelper
 
 [![Join the chat at https://gitter.im/CsvHelper/Lobby](https://badges.gitter.im/CsvHelper/Lobby.svg)](https://gitter.im/CsvHelper/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
